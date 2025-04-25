@@ -14,3 +14,10 @@ textarea {
 .form-class {
     margin-bottom: 10px;
 }
+
+h1 {
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    font-family: monospace;
+}
